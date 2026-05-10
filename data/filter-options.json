@@ -4231,19 +4231,19 @@
   "timePeriods": {
     "withCounts": [
       "None",
-      "This Week (5)",
+      "This Week (0)",
       "This Month (5)",
       "3 Months (12)",
       "This Year (115)"
     ],
     "raw": {
       "None": null,
-      "This Week": 5,
+      "This Week": 0,
       "This Month": 5,
       "3 Months": 12,
       "This Year": 115
     }
   },
-  "generatedAt": "2026-05-09T07:54:44.355Z",
+  "generatedAt": "2026-05-10T08:05:58.831Z",
   "catalogSize": 4277
 }
