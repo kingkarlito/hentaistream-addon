@@ -4233,17 +4233,17 @@
       "None",
       "This Week (0)",
       "This Month (4)",
-      "3 Months (12)",
-      "This Year (99)"
+      "3 Months (11)",
+      "This Year (98)"
     ],
     "raw": {
       "None": null,
       "This Week": 0,
       "This Month": 4,
-      "3 Months": 12,
-      "This Year": 99
+      "3 Months": 11,
+      "This Year": 98
     }
   },
-  "generatedAt": "2026-07-02T08:53:26.944Z",
+  "generatedAt": "2026-07-03T09:14:56.214Z",
   "catalogSize": 4283
 }
